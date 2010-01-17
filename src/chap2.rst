@@ -1,4 +1,3 @@
-
 Getting started with Python
 ============================
 
@@ -194,7 +193,7 @@ If you hit the spacebar key before typing 1, you will get an error which looks l
 
 It's ok to type as many spaces as you wish between 1 and the '+' symbol and between
 the '+' symbol and 2, but if you type a space at the beginning of the line, that
-will create trouble. In a later chapter, you will see situations where you have to
+will create trouble. In a forthcoming chapter, you will see situations where you have to
 type one or more spaces at the beginning of a line.
 
 
