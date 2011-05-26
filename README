@@ -5,6 +5,8 @@ a) Set up Sphinx (http://sphinx.pocoo.org/)
 b) Type: 
 
     make html
+or
+    ./mkweb 
 
 to build the book for online browsing. You will find the
 HTML files under _build/html
@@ -12,6 +14,8 @@ HTML files under _build/html
 c) Type:
 
    make latex
+or
+   ./mkpdf
 
 to generate latex output. The latex files will be under
 _build/latex. Run `make' in this folder.
